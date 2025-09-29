@@ -1,0 +1,3 @@
+{
+  "environment": "\u003c+pipeline.variables.environment_name\u003e"
+}
